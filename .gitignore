@@ -1,0 +1,12 @@
+# Axure 源文件不上传，仓库里只放导出的 HTML 预览
+*.rp
+*.rpprj
+
+# 系统 / 编辑器杂项
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+
+# 临时暂存目录
+.staging/
